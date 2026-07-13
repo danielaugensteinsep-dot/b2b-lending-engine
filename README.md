@@ -1,4 +1,4 @@
-# B2B Corporate Loan Origination Engine
+# B2B Corporate Loan Engine
 
 A Python-based financial system that evaluates corporate balance sheets, calculates post-transaction risk, and automates loan approval decisions using strict banking rules.
 
